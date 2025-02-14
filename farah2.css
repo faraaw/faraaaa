@@ -1,0 +1,56 @@
+.c_farah-frame {
+    width: 100%;
+    overflow: hidden;
+    max-width: 4768px;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-direction: column;
+    justify-content: flex-start;
+    background-color: #fff;
+  }
+  
+  .c_farah-rectangle {
+    width: 100%;
+    height: auto;
+    margin: 0;
+    display: block;
+    max-width: 4768px;
+  }
+  
+  .c_farah-text {
+    width: 100%;
+    max-width: auto;
+    margin-top: 0;
+    min-height: auto;
+    text-align: left;
+    margin-bottom: 0;
+  }
+  
+  .c_farah-text1 {
+    color: #8b3939;
+    font-size: 128px;
+    font-style: normal;
+    font-family: "Lexend Peta",sans-serif;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: 0;
+    text-transform: none;
+  }
+  
+  .c_farah-text1,
+  .c_farah-text2 {
+    margin-top: 0;
+    text-align: left;
+    margin-bottom: 0;
+  }
+  
+  .c_farah-text3 {
+    color: #8b3939;
+    font-size: 128px;
+    font-style: normal;
+    font-family: "Lexend Peta",sans-serif;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: 0;
+    text-transform: none;
+  }
